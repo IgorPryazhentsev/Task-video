@@ -1,1 +1,1 @@
-https://IgorPryazhentsev.github.io/videoplayer
+https://IgorPryazhentsev.github.io/Task-video
